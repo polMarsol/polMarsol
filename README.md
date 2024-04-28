@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://ibb.co/zZVXLp5" align="center" style="width: 100%" />
 </div>  
   
 
