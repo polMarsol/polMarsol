@@ -1,115 +1,69 @@
-<div align="center">
-</div>  
-  
+<h1 align="center">Pol Marsol Torras</h1>
 
-### <div align="center">I'm Pol, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
-  
+<p align="center">
+  Software Developer specialised in Artificial Intelligence and Machine Learning
+</p>
 
-- 🔭 I’m currently working on my own (https://github.com/polMarsol)  
-  
+<p align="center">
+  <a href="https://www.polmarsol.me"><img src="https://img.shields.io/badge/Portfolio-polmarsol.me-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/pol-marsol"><img src="https://img.shields.io/badge/LinkedIn-pol--marsol-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@polmarsol.me"><img src="https://img.shields.io/badge/Email-contact%40polmarsol.me-30363d?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🌱 I’m currently learning Computer Science at University of Lleida  
-  
+---
 
-- ❓ Ask me about anything related to technologies and programming  
-  
+## About
 
-<br/>  
+Computer Engineer from the Universitat de Lleida, currently studying the Master in Artificial Intelligence (UPC · UB · URV). I build machine learning systems for real-world settings — clinical diagnosis and industrial quality control — together with the APIs, dashboards and mobile apps that put them in front of users.
 
+## Experience
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**Software Developer – AI & ML** · ENGISOFT Cloud Services · *Oct 2025 – Jun 2026*
+Machine learning models for medical diagnosis and industrial anomaly detection. Clinical web dashboard with a Flask backend and REST APIs for real-time inference.
 
+**Full Stack Developer (Internship)** · bonÀrea · *Jul 2024 – Aug 2024*
+Lottery management module for the corporate intranet (HTML frontend, Java backend).
 
+## Education
 
-### Frontend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
+**Master in Artificial Intelligence** · UPC · UB · URV · *2026 – present*
 
-</td><td valign="top" width="33%">
+**Bachelor's Degree in Computer Engineering** · Universitat de Lleida · *2022 – 2026*
+Final average 8.47/10. Bachelor's thesis (NECODYS) graded 10/10.
 
+## Selected projects
 
+### Industry
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| **PatoInspector** | Real-time, cold-start anomaly detection for industrial quality control. PatchCore on a pretrained WideResNet50, trained on only 10 defect-free images. | Python, PatchCore, WideResNet50, Computer Vision |
+| **Pleural Disease ML Diagnosis** | Multiclass classifier for four pleural conditions from clinical tabular data, with SHAP explainability. | Python, XGBoost, LightGBM, CatBoost, SHAP, Optuna |
+| **Tissue Anomaly Detection** | Unsupervised convolutional U-Net autoencoder that locates fabric defects from reconstruction-error heat maps. | Python, Keras, U-Net, OpenCV |
 
-</td><td valign="top" width="33%">
+<sub>Industry projects developed at ENGISOFT. Source code is private.</sub>
 
+### Research and personal
 
+| Project | Description | Stack |
+|---|---|---|
+| **NECODYS** · [Thesis (PDF)](https://www.polmarsol.me/tfg-necodys-pol-marsol.pdf) | Clinical mobile app for early dyslexia risk detection in children aged 3–6 through oral discourse analysis. Bachelor's thesis, developed with the IRB research group (UdL). | Flutter, FastAPI, Python, NLP, PostgreSQL, Firebase |
+| **NeuroSport** | Injury-risk and overtraining prediction for endurance athletes, offline-first, with personalised recommendations. | Kotlin, Jetpack Compose, FastAPI, LSTM, TFLite, Firebase |
+| **FLL Scoreboard** · [Repo](https://github.com/polMarsol/first-lego-league-scoreboard) · [Live](https://dev-scoreboard.firstlegoleague.win) | Gamified leaderboard for FIRST LEGO League teams, integrated with GitHub, with score charts and a virtual betting system. | Python, JavaScript, GitHub API, GitHub Actions |
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>
+## Technical skills
 
-</td></tr></table>  
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, Kotlin, Dart, C, JavaScript, TypeScript, PHP, Bash |
+| AI / ML | scikit-learn, TensorFlow / Keras, XGBoost, LightGBM, CatBoost, SHAP, Optuna, OpenCV, NLP |
+| Mobile | Android (Jetpack Compose), Flutter, TFLite |
+| Backend | FastAPI, Flask, Spring, REST APIs, Next.js, React |
+| Data | PostgreSQL, Firebase, Supabase, SQLite |
+| Infrastructure | AWS, Docker, Git, GitHub Actions |
 
-<br/>  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,dart,ts,sklearn,tensorflow,flutter,fastapi,flask,react,postgres,firebase,aws,docker,githubactions&theme=dark&perline=16" alt="Tech stack" />
+</p>
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/polMarsol" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pol-marsol-torras-0b232326b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/pol__92" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-My Own Finance - BRANCH: MyOwnFinanceDB
-This is a personal finance management application developed in Java. It allows users to track their income and expenses, view transactions, and get spending statistics.
-
-Space Climate Web - BRANCH: climateSpaceWeb
-Space Climate Web es una aplicación web que permite visualizar y analizar datos sobre el viento solar. Los usuarios pueden consultar datos, ver gráficos interactivos y exportar información en formato CSV para un análisis más detallado.
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=polMarsol&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/polMarsol" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**Languages:** Catalan (native), Spanish (native), English (B2)
