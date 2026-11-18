@@ -67,3 +67,10 @@ Final average 8.47/10. Bachelor's thesis (NECODYS) graded 10/10.
 </p>
 
 **Languages:** Catalan (native), Spanish (native), English (B2)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polMarsol/polMarsol/output/github-snake-dark.svg" />
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/polMarsol/polMarsol/output/github-snake.svg" />
+  </picture>
+</p>
